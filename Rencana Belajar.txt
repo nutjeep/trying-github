@@ -1,2 +1,5 @@
 Rencana Belajar Web Developer
  - Vue JS
+ - Node JS
+ - Laravel Lanjutan
+ - Javascript Lanjutan
